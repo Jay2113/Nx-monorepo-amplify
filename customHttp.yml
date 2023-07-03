@@ -1,5 +1,5 @@
 applications:
-  - appRoot: app
+  - appRoot: apps/app
     customHeaders:
     - pattern: '**/*'
       headers:
